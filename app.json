@@ -34,7 +34,7 @@
         {
           "image": "./assets/images/dark-icon.jpg",
           "resizeMode": "contain",
-          "backgroundColor": "white",
+          "backgroundColor": "#ffffff",
           "backgroundColorDark": "#000000"
         }
       ]
