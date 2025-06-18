@@ -32,8 +32,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/light-splash.jpg",
-          "imageDark": "./assets/images/dark-splash.jpg",
+          "image": "./assets/images/dark-icon.jpg",
           "resizeMode": "contain",
           "backgroundColor": "#ffffff",
           "backgroundColorDark": "#000000"
@@ -46,15 +45,15 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": ""
+        "projectId": "b69dc506-5a77-4ab8-b7fc-b68c3aefd69a"
       }
     },
-    "owner": "chobegraphybd",
+    "owner": "arafatrahat94",
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": ""
+      "url": "https://u.expo.dev/b69dc506-5a77-4ab8-b7fc-b68c3aefd69a"
     }
   }
 }
